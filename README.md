@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @malfihasan
-- 👀 I’m interested in deep learning, remote sensing and climate change. 
-- 🌱 I’m currently learning deep learning architectures in computer vision and temporal data. 
-- 💞️ I’m looking to collaborate on the US stock market analysis and deep learning projects.
+- 🤖 My current expertise involves deep learning, remote sensing, and climate change.  
+- 💞️ I’m looking to collaborate on the fintech analysis and deep learning projects.
 - 📫 How to reach me mdalfihasan19@gmail.com / http://www.malfihasan.com/
 
 <!---
