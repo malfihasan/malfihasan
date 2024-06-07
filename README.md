@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @malfihasan
-- 🤖 My current expertise involves deep learning, remote sensing, and climate change.  
+- 🤖 My current expertise involves computer vision, large vision models, and remote sensing.  
 - 💞️ I’m looking to collaborate on the fintech analysis and deep learning projects.
 - 📫 How to reach me mdalfihasan19@gmail.com / http://www.malfihasan.com/
 
